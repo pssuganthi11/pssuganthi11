@@ -103,6 +103,7 @@ and clean coding practices.
 </p>
 
 ---
+## Random quote
 
 <p align="center">
   <img src="https://img.shields.io/badge/First,%20solve%20the%20problem.%20Then,%20write%20the%20code-1a1b26?style=for-the-badge&logoColor=7aa2f7&color=1a1b26&labelColor=1a1b26" />
@@ -111,5 +112,4 @@ and clean coding practices.
 </p>
 
 ---
-## Random quote
 <p align="center">⭐️ Thanks for visiting my GitHub profile! ⭐️</p>
