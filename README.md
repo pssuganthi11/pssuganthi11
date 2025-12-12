@@ -84,9 +84,16 @@ and clean coding practices.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pssuganthi11&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pssuganthi11&layout=compact&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pssuganthi11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pssuganthi11&layout=compact&theme=tokyonight" />
 </p>
+
+---
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=pssuganthi11&theme=tokyonight" />
+</p>
+
 
 ---
 
@@ -97,4 +104,12 @@ and clean coding practices.
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/First,%20solve%20the%20problem.%20Then,%20write%20the%20code-1a1b26?style=for-the-badge&logoColor=7aa2f7&color=1a1b26&labelColor=1a1b26" />
+  <br>
+  <strong style="color:#7aa2f7;">— John Johnson</strong>
+</p>
+
+---
+## Random quote
 <p align="center">⭐️ Thanks for visiting my GitHub profile! ⭐️</p>
