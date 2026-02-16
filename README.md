@@ -55,18 +55,6 @@ and clean coding practices.
 
 ## 💼 Professional Experience
 
-### **🔹 Full Stack Engineer Intern – CyberDude Networks Pvt Ltd (Present)**
-- Working on **E-Learning platform** with responsive UI layouts  
-- Building clean frontend structures using **HTML, CSS, and React components**
-
-### **🔹 Web Developer Intern – Brihas AI (Aug 2025 – Nov 2025)**
-- Built dynamic, CSR/SSR/SSG pages with **Next.js**
-- Integrated REST APIs using **fetch / axios**
-- Implemented **Gemini API** for AI-powered chat
-- Used **Next/Image** optimization & dynamic imports
-- Designed UI prototypes using **Figma**
-- Ensured responsiveness using **Tailwind & styled-components**
-
 ### **🔹 Web Developer – Techhyve Connect Pvt Ltd (Nov 2024 – Jan 2025)**
 - Developed full-stack applications with **React, Node.js & SQL**
 - Built reusable UI with **Material UI, Bootstrap, SASS**
