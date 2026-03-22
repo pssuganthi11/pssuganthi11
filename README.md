@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | MERN Stack Developer | UI Enthusiast</h3>
 
 <p align="center">
-Passionate Frontend Developer with 2 years of industry experience in building scalable, 
+Passionate Frontend Developer with industry experience in building scalable, 
 responsive, and user-friendly web applications using MERN stack, modern UI libraries, 
 and clean coding practices.
 </p>
@@ -12,7 +12,6 @@ and clean coding practices.
 ## 🚀 About Me
 - 💻 Frontend Developer with experience in **React, Next.js & TypeScript**
 - 🌱 Currently learning: **Advanced React Patterns, Next.js**, and modern UI frameworks
-- 🔭 Working on **E-Learning Platform**, building responsive layouts & reusable UI
 - 🤝 Enjoy collaborating with cross-functional teams (Design, Backend, QA)
 - 🎨 Love creating clean UI/UX using Material UI, Tailwind & custom CSS
 - 📫 Reach me: **pssuganthi11@gmail.com**
