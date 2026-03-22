@@ -55,12 +55,6 @@ and clean coding practices.
 
 ## 💼 Professional Experience
 
-### **🔹 Web Developer – Techhyve Connect Pvt Ltd (Nov 2024 – Jan 2025)**
-- Developed full-stack applications with **React, Node.js & SQL**
-- Built reusable UI with **Material UI, Bootstrap, SASS**
-- Integrated third-party APIs & CRUD operations
-- Collaborated across teams to deliver high-quality features
-
 ### **🔹 Software Engineer – Decision Minds Pvt Ltd (Sep 2021 – May 2023)**
 - Built scalable React components for data workflows
 - Integrated backend APIs for real-time UI updates
